@@ -35,7 +35,7 @@ Développeur FullStack spécialisé dans les écosystèmes Django et React, avec
 - **IA et Sécurité** : Développement de projets personnels et recherches appliquées en cybersécurité (2026 - Présent).
 - **Encadrement Python et Django** : Supervision technique de stagiaires chez SOFT AVOLIK (2025).
 - **Développement Backend** : Maintenance d'applications et gestion de bases de données chez Magis Fintech Solution (2024 - 2025).
-- **Formation Web** : Enseignement du HTML, CSS et JavaScript chez Omega Technology (2025).
+- **Formation Web** : Formateur du HTML, CSS et JavaScript chez Omega Technology (2025).
 
 ### Statistiques d'Utilisation des Langages
 
