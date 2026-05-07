@@ -7,7 +7,7 @@
   />
 </p>
 
-### Profil Professionnel
+### Profil
 
 Développeur FullStack spécialisé dans les écosystèmes Django et React, avec une expertise en ingénierie des télécommunications. Mon parcours se concentre sur le développement d'applications web, l'encadrement technique et la recherche de solutions intégrant l'intelligence artificielle et la cybersécurité.
 
@@ -30,7 +30,7 @@ Développeur FullStack spécialisé dans les écosystèmes Django et React, avec
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-### Expériences Professionnelles
+### Expériences
 
 - **IA et Sécurité** : Développement de projets personnels et recherches appliquées en cybersécurité (2026 - Présent).
 - **Encadrement Python et Django** : Supervision technique de stagiaires chez SOFT AVOLIK (2025).
@@ -46,7 +46,7 @@ Développeur FullStack spécialisé dans les écosystèmes Django et React, avec
   />
 </p>
 
-### Contact et Liens Professionnels
+### Contact
 
 - Portfolio : https://luckson.vercel.app
 - LinkedIn : https://www.linkedin.com/in/wilondja
