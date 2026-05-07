@@ -1,49 +1,44 @@
-# 👋 Salut, moi c'est Luckson (Wilondja Ebuela)
+# Wilondja Ebuela (Luckson)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luckson-dev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luckson-dev&show_icons=true&theme=tokyonight&count_private=true" alt="Statistiques GitHub" />
 </p>
 
-### 🚀 À propos de moi
+### Profil Professionnel
 
-- [cite_start]💻 **Développeur FullStack** orienté vers l'écosystème **Django** et **React**[cite: 17, 18].
-- [cite_start]🎓 **Ingénieur en Télécommunications** diplômé de l'Université Espoir d'Afrique[cite: 57].
-- [cite_start]🍎 **Formateur & Encadreur** technique (Python, Django, HTML/CSS, JS) avec une solide expérience pédagogique[cite: 28, 44].
-- [cite_start]🏙️ Créateur de **L'Œil d'Uvira (SentinelNet)**, une solution mêlant Intelligence Artificielle et Cybersécurité[cite: 18, 48].
-- [cite_start]📍 Basé à **Bujumbura, Burundi**[cite: 3].
+[cite_start]Développeur FullStack spécialisé dans les écosystèmes Django et React, avec une expertise approfondie en ingénierie des télécommunications[cite: 17, 18, 57]. [cite_start]Mon parcours se concentre sur le développement d'applications web robustes, l'encadrement technique et la recherche de solutions intégrant l'intelligence artificielle et la cybersécurité[cite: 18, 32, 33].
 
-### 🛠️ Mes Compétences & Expertise
+- [cite_start]Développeur FullStack : Django, React, Next.js et React Native[cite: 12, 13, 17].
+- [cite_start]Ingénieur en Génie et Gestion des Télécommunications (Université Espoir d'Afrique)[cite: 57].
+- [cite_start]Formateur et encadreur technique en programmation Python et JavaScript[cite: 28, 44, 45].
+- [cite_start]Concepteur de la plateforme SentinelNet / L'Œil d'Uvira[cite: 48].
+- [cite_start]Localisation : Bujumbura, Burundi[cite: 3].
 
-Voici un aperçu de ma maîtrise technique actuelle :
+### Stack Technique
 
-- **Python / Django** ----------------- **70%** - **JavaScript / React** --------------- **70%** - **Next.js** -------------------------- **60%** - **React Native** --------------------- **60%** - **Cybersécurité** -------------------- **60%** - **IA (ML / DL)** --------------------- **50%** ### 🧰 Stack Technique Additionnel
+- [cite_start]**Langages et Frameworks** : Python, Django, JavaScript, React, Next.js, React Native[cite: 12, 13, 17].
+- [cite_start]**Technologies Web** : HTML5, CSS3, Tailwind CSS, API REST[cite: 28, 29, 39].
+- [cite_start]**Infrastructure et Outils** : Git, GitHub, Docker, Administration Linux[cite: 34, 35, 37].
+- [cite_start]**Domaines de recherche** : Intelligence Artificielle (ML/DL) et Cybersécurité[cite: 32, 33, 46].
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+### Expériences Professionnelles
 
-### 🔭 Expériences Phares
+- [cite_start]**IA et Sécurité** : Développement de projets personnels et recherches appliquées (2026 - Présent)[cite: 41, 46, 47, 48].
+- [cite_start]**Encadrement Python et Django** : Supervision technique chez SOFT AVOLIK (2025)[cite: 40, 44, 45].
+- [cite_start]**Développement Backend** : Maintenance d'applications et gestion de bases de données chez Magis Fintech Solution (2024 - 2025)[cite: 24, 26, 27].
+- [cite_start]**Formation Web** : Enseignement des fondamentaux du développement chez Omega Technology (2025)[cite: 25, 28, 29].
 
-- [cite_start]🛡️ **IA & Sécurité** : Recherche et développement de projets personnels sur la menace des Remote Access Trojans (RATs)[cite: 48].
-- [cite_start]🏫 **Encadrement Technique** : Supervision de stagiaires sur des projets Django chez SOFT AVOLIK[cite: 45].
-- [cite_start]💳 **Fintech** : Développement d'infrastructures API et systèmes back-end sécurisés chez Magis Fintech Solution[cite: 27].
-
-### 📊 Langages les plus utilisés
+### Statistiques d'Utilisation des Langages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckson-dev&layout=compact&theme=tokyonight&hide=html,css" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckson-dev&layout=compact&theme=tokyonight&hide=html,css" alt="Langages les plus utilisés" />
 </p>
 
-### 🤝 Travaillons ensemble !
+### Contact et Liens Professionnels
 
-- [cite_start]🌐 Mon Portfolio : [luckson.vercel.app](https://luckson.vercel.app) [cite: 14]
-- [cite_start]💼 LinkedIn : [in/wilondja](https://www.linkedin.com/in/wilondja) [cite: 16]
-- [cite_start]📧 Contact : [lucksonpremier@example.com](mailto:lucksonpremier@example.com) [cite: 2]
+- [cite_start]Portfolio : luckson.vercel.app [cite: 14]
+- [cite_start]LinkedIn : linkedin.com/in/wilondja 
+- [cite_start]Email : lucksonpremier@example.com [cite: 2]
 
-<p align="right">
-  <i>"Build, Break, Fix, Repeat."</i> 🚀
-</p>
+---
+Build, Break, Fix, Repeat.
