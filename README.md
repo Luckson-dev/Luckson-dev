@@ -1,7 +1,10 @@
 # Wilondja Ebuela (Luckson)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luckson-dev&show_icons=true&theme=tokyonight&count_private=true" alt="Statistiques GitHub" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Luckson-dev&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" 
+    alt="GitHub Stats"
+  />
 </p>
 
 ### Profil Professionnel
@@ -38,7 +41,10 @@ Développeur FullStack spécialisé dans les écosystèmes Django et React, avec
 ### Statistiques d'Utilisation des Langages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckson-dev&layout=compact&theme=tokyonight&hide=html,css" alt="Langages les plus utilisés" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckson-dev&layout=compact&theme=tokyonight&langs_count=8" 
+    alt="Top Languages"
+  />
 </p>
 
 ### Contact et Liens Professionnels
