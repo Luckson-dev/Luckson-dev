@@ -28,7 +28,7 @@
 
 ### 📈 Langages les plus utilisés
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckson-dev&layout=compact&theme=tokyonight&hide=html,css" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckson-dev&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
 
 ### 🤝 Travaillons ensemble !
