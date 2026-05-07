@@ -14,7 +14,6 @@ Développeur FullStack spécialisé dans les écosystèmes Django et React, avec
 - Développeur FullStack : Django, React, Next.js et React Native.
 - Ingénieur en Génie et Gestion des Télécommunications diplômé de l'Université Espoir d'Afrique.
 - Formateur et encadreur technique en programmation Python et JavaScript.
-- Concepteur de la plateforme SentinelNet / L'Œil d'Uvira.
 - Basé à Bujumbura, Burundi.
 
 ### Stack Technique
