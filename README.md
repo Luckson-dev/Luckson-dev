@@ -42,7 +42,7 @@ Développeur FullStack spécialisé dans les écosystèmes Django et React, avec
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckson-dev&layout=compact&theme=tokyonight&langs_count=8" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luckson-dev&layout=compact&theme=tokyonight&langs_count=8" 
     alt="Top Languages"
   />
 </p>
