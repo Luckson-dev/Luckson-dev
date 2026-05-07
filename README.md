@@ -6,13 +6,13 @@
 
 ### Profil Professionnel
 
-Développeur FullStack spécialisé dans les écosystèmes Django et React, avec une expertise en ingénierie des télécommunications. [cite_start]Mon parcours se concentre sur le développement d'applications web, l'encadrement technique et la recherche de solutions intégrant l'intelligence artificielle et la cybersécurité[cite: 17, 18].
+Développeur FullStack spécialisé dans les écosystèmes Django et React, avec une expertise en ingénierie des télécommunications. Mon parcours se concentre sur le développement d'applications web, l'encadrement technique et la recherche de solutions intégrant l'intelligence artificielle et la cybersécurité.
 
-- [cite_start]Développeur FullStack : Django, React, Next.js et React Native[cite: 12, 13, 17].
-- [cite_start]Ingénieur en Génie et Gestion des Télécommunications diplômé de l'Université Espoir d'Afrique[cite: 57].
-- [cite_start]Formateur et encadreur technique en programmation Python et JavaScript[cite: 28, 44, 45].
+- Développeur FullStack : Django, React, Next.js et React Native.
+- Ingénieur en Génie et Gestion des Télécommunications diplômé de l'Université Espoir d'Afrique.
+- Formateur et encadreur technique en programmation Python et JavaScript.
 - Concepteur de la plateforme SentinelNet / L'Œil d'Uvira.
-- [cite_start]Basé à Bujumbura, Burundi[cite: 3].
+- Basé à Bujumbura, Burundi.
 
 ### Stack Technique
 
@@ -30,10 +30,10 @@ Développeur FullStack spécialisé dans les écosystèmes Django et React, avec
 
 ### Expériences Professionnelles
 
-- [cite_start]**IA et Sécurité** : Développement de projets personnels et recherches appliquées en cybersécurité (2026 - Présent)[cite: 46, 47, 48].
-- [cite_start]**Encadrement Python et Django** : Supervision technique de stagiaires chez SOFT AVOLIK (2025)[cite: 44, 45].
-- [cite_start]**Développement Backend** : Maintenance d'applications et gestion de bases de données chez Magis Fintech Solution (2024 - 2025)[cite: 26, 27].
-- [cite_start]**Formation Web** : Enseignement du HTML, CSS et JavaScript chez Omega Technology (2025)[cite: 28, 29].
+- **IA et Sécurité** : Développement de projets personnels et recherches appliquées en cybersécurité (2026 - Présent).
+- **Encadrement Python et Django** : Supervision technique de stagiaires chez SOFT AVOLIK (2025).
+- **Développement Backend** : Maintenance d'applications et gestion de bases de données chez Magis Fintech Solution (2024 - 2025).
+- **Formation Web** : Enseignement du HTML, CSS et JavaScript chez Omega Technology (2025).
 
 ### Statistiques d'Utilisation des Langages
 
@@ -43,9 +43,9 @@ Développeur FullStack spécialisé dans les écosystèmes Django et React, avec
 
 ### Contact et Liens Professionnels
 
-- [cite_start]Portfolio : luckson.vercel.app [cite: 14]
+- Portfolio : luckson.vercel.app
 - LinkedIn : linkedin.com/in/wilondja
-- [cite_start]Email : lucksonpremier@example.com [cite: 2]
+- Email : lucksonpremier@example.com
 
 ---
 Build, Break, Fix, Repeat.
