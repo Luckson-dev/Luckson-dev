@@ -48,7 +48,7 @@ Développeur FullStack spécialisé dans les écosystèmes Django et React, avec
 
 ### Contact et Liens Professionnels
 
-- Portfolio : luckson.vercel.app
+- Portfolio : https://luckson.vercel.app
 - LinkedIn : linkedin.com/in/wilondja
 - Facebook : https://www.facebook.com/Luckson2001
 - Email : lucksonpremier@gmail.com
